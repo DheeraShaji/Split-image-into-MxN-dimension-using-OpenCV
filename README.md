@@ -8,5 +8,5 @@ So, here is a simple and effective way to crop the images into patches of m x n 
 Given the image path, m, and n values, the cropeed images will get stored to the desired location.
 
 Input: 
-![image](https://user-images.githubusercontent.com/78141360/190328240-4d3538ad-712c-4f29-963b-cb8921eb5491.jpeg)
+
 
