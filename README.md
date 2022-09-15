@@ -8,5 +8,8 @@ So, here is a simple and effective way to crop the images into patches of m x n 
 Given the image path, m, and n values, the cropeed images will get stored to the desired location.
 
 Input: 
+![in_img](https://user-images.githubusercontent.com/78141360/190328547-593096d5-329d-413f-aa40-2dd020f7d1d0.png)
+Output: Get 9 splitted images
+![im-out](https://user-images.githubusercontent.com/78141360/190328557-8a28f509-3daa-43d4-a1c2-b47f193838ba.png)
 
 
